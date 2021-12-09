@@ -18,10 +18,11 @@ body{
 }
 
 .titulo{
-    font-size: 2rem;
+    text-align: center;
+    font-size: 3.8rem;
 }
 .titulo span{
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .navegacion-principal{
